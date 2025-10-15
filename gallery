@@ -1,0 +1,9 @@
+<div class="gallery-grid">
+  <a href="images/firearm1.jpg" class="lightbox">
+    <img src="images/firearm1.jpg" alt="Cerakote Firearm">
+  </a>
+  <a href="images/auto1.jpg" class="lightbox">
+    <img src="images/auto1.jpg" alt="Ceramic Coated Car Part">
+  </a>
+  <!-- Add more images as needed -->
+</div>
