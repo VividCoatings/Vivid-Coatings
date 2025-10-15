@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  font-family: 'Futura', sans-serif;
+  background: #FAF3E0;
+  color: #4E342E;
+}
+
+header {
+  background: #D35400;
+  color: #fff;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+header h1 {
+  font-family: 'Cooper Black', serif;
+  font-size: 3rem;
+  margin: 0;
+}
+
+.tagline {
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hero {
+  background: #1ABC9C;
+  color: #fff;
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.hero h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.cta {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.75rem 1.5rem;
+  background: #F1C40F;
+  color: #4E342E;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.services {
+  padding: 3rem 2rem;
+  text-align: center;
+}
+
+.service-grid {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.service {
+  background: #fff;
+  border: 2px solid #D35400;
+  padding: 1.5rem;
+  width: 250px;
+  border-radius: 10px;
+}
+
+footer {
+  background: #4E342E;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
